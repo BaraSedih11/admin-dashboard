@@ -9,6 +9,23 @@
   
 </div>
 
+A full-stack **Admin Dashboard** application designed for managing and monitoring administrative tasks efficiently. This project utilizes **NestJS** and **MongoDB** for the backend and **ReactJS** for the frontend, offering a robust and scalable solution for administrative operations.
+
+## Features
+- **User Management**: Add, update, and delete users.
+- **Data Visualization**: Interactive charts and tables for insightful data representation.
+- **Authentication**: Secure login and role-based access control.
+- **Responsive Design**: Fully optimized for mobile and desktop views.
+
+## Technologies Used
+- **Frontend**: ReactJS, HTML, CSS
+- **Backend**: NestJS, MongoDB
+- **Other Tools**: TypeScript, Axios
+
+<br />
+<br />
+<br />
+
 ![Screenshot 2024-12-10 161209](https://github.com/user-attachments/assets/e966c0fc-de3b-4b69-825a-ab7a17c94425)
 
 ![Screenshot 2024-12-10 161226](https://github.com/user-attachments/assets/75fc495e-d346-4ccc-89a3-159a713407c9)
