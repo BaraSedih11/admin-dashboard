@@ -1,4 +1,13 @@
-# Admin Dashboard
+<div align="center">
+  
+![Admin_Dashboard](https://github.com/user-attachments/assets/d2674b7c-81f1-45a4-98e6-3adf987e617f)
+
+   ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/admin-dashboard) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/BaraSedih11/admin-dashboard) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/admin-dashboard/main)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih11/admin-dashboard/releases/tag/v1.0.0)
+[![Contributors](https://img.shields.io/github/contributors/BaraSedih11/admin-dashboard)](https://github.com/BaraSedih11/admin-dashboard/graphs/contributors)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BaraSedih11/admin-dashboard)
+  
+</div>
 
 ![Screenshot 2024-12-10 161209](https://github.com/user-attachments/assets/e966c0fc-de3b-4b69-825a-ab7a17c94425)
 
